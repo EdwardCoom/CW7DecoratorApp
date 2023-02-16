@@ -1,4 +1,10 @@
-﻿using System;
+﻿// Name: Zach Coomer
+// Date: 2/15/2023
+// Assignment: CW7: Recognizing Patterns and Decorator Practice
+// Class: 352
+// Description: Decorator program from decorator.dia UML with UpdatedZCdecorator.dia additions, rough program to show decorator use.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Policy;
